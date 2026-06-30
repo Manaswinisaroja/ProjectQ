@@ -23,14 +23,19 @@ Each folder contains the work completed for a particular day, along with notes, 
 
 
 ## 📂 Repository Structure
-
 ```
 Project-Q/
 │
+├── README.md        ← Main repository README
 ├── Day-7/
+│   ├── qrng.py
+│   ├── histogram.py
+│   ├── statistics.py
+│   ├── comparison.py
+│   └── README.md
+│
 └── ...
 ```
-
 
 ## 🚀 Goals
 
